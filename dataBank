@@ -1,0 +1,316 @@
+Does it have a nucleus
+starting
+null
+question
+Is it an animal
+Does it have a nucleus
+yes
+question
+Is it a fungus
+Is it an animal
+no
+question
+Mushroom
+Is it a fungus
+yes
+answer
+Zooplankton
+Is it a plant
+no
+answer
+Bush
+Does it have trunk
+no
+answer
+Does it have a vertebrate
+Is it an animal
+yes
+question
+Horse
+Does it have a body smaller than a breadbox
+no
+answer
+Worm 
+Does it have shell
+no
+answer
+Is it a bacteria
+Does it have a nucleus
+no
+question
+Is it an archeabacteria
+Is it a bacteria
+no
+question
+Is it a virus
+Is it an archeabacteria
+no
+question
+Salmonella
+Does it have causes a bad feeling in the throat
+no
+answer
+Flu virus
+Is it a virus
+yes
+answer
+An extremophile which lives near the hydrothermal vents
+Is it an Archeabacteria
+yes
+answer
+Does it have a vertebrate
+Is it a virus
+no
+question
+Does it have a tall neck
+Does it have a vertebrate
+yes
+question
+Giraffe
+Does it have large eggs
+no
+answer
+Does it have stripes
+Does it have a tall neck
+no
+question
+zebra
+Does it have sharp teeth
+no
+answer
+Does it have more strength than a horse
+Does it have stripes
+no
+question
+donkey
+Does it have the ability to swim
+no
+answer
+Does it have both a horse and a donkey for parents
+Does it have more strength than a horse
+yes
+question
+mule
+Does it have both a horse and a donkey for parents
+yes
+answer
+Does it have white and black spots
+Does it have both a horse and a donkey for parents
+no
+question
+cow
+Does it have white and black spots
+yes
+answer
+Does it have large Wings
+Does it have more strength than a horse
+no
+question
+Bald Eagle
+Does it have Wings
+yes
+answer
+Does it have wings
+Does it have white and black spots
+no
+question
+pterodactyl
+Does it have large wings
+yes
+answer
+Is it a plant
+Is it a fungus
+no
+question
+Does it have roses
+Is it a plant
+yes
+question
+Rose bush
+Does it have roses
+yes
+answer
+Does it have mammary glands
+Does it have wings
+no
+question
+whale
+Does it have big ears
+no
+answer
+Does it have yellow petals
+Does it have roses
+no
+question
+sunflower
+Does it have yellow petals
+yes
+answer
+Does it have trunk
+Does it have yellow petals
+no
+question
+banana tree
+Does it have flowers
+no
+answer
+Does it have a carnivorous diet
+Does it have mammary glands
+no
+question
+lion
+Does it have a carnivorous diet
+yes
+answer
+Does it have a carnivorous diet
+Does it have mammary glands
+yes
+question
+lion
+Does it have a carnivorous diet
+yes
+answer
+Does it have flowers
+Does it have trunk
+yes
+question
+lilac tree
+Does it have flowers
+yes
+answer
+Does it have beneficial qualities for humans
+Is it a bacteria
+yes
+question
+Lactobacillus
+Does it have beneficial qualities for humans
+yes
+answer
+Does it have sharp teeth
+Does it have stripes
+yes
+question
+tiger
+Does it have sharp teeth
+yes
+answer
+Does it have a trunk
+Does it have a carnivorous diet
+no
+question
+elephant
+Does it have a trunk
+yes
+answer
+Does it have canine teeth
+Does it have large Wings
+no
+question
+dog
+Does it have fins
+no
+answer
+Does it have shell
+Does it have a vertebrate
+no
+question
+snail
+Does it have shell
+yes
+answer
+Does it have large brains
+Does it have canine teeth
+yes
+question
+ape
+Does it have a rational soul
+no
+answer
+Does it have a body smaller than a breadbox
+Does it have canine teeth
+no
+question
+chipmunk
+Does it have a body smaller than a breadbox
+yes
+answer
+Does it have the ability to purr and/or meow
+Does it have large brains
+no
+question
+house cat
+Does it have the ability to purr and/or meow
+yes
+answer
+Does it have a tail
+Does it have large brains
+yes
+question
+a chimpanzee/monkey
+Does it have a tail
+yes
+answer
+Does it have a pouch instead of a placenta
+Does it have the ability to purr and/or meow
+no
+question
+a kangaroo
+Does it have a pouch instead of a placenta
+yes
+answer
+Does it have big ears
+Does it have a carnivorous diet
+no
+question
+elephant
+Does it have big ears
+yes
+answer
+Does it have causes a bad feeling in the throat
+Does it have beneficial qualities for humans
+no
+question
+strep throat
+Does it have causes a bad feeling in the throat
+yes
+answer
+Does it have a rational soul
+Does it have a tail
+no
+question
+a human being
+Does it have a rational soul
+yes
+answer
+Does it have the ability to swim
+Does it have a trunk
+no
+question
+whale
+Does it have the ability to swim
+yes
+answer
+Does it have mane
+Does it have a pouch instead of a placenta
+no
+question
+lion 
+Does it have mane
+yes
+answer
+Does it have fins
+Does it have mane
+no
+question
+piranha
+Does it have fins
+yes
+answer
+Does it have large eggs
+Does it have a tall neck
+yes
+question
+ostrich 
+Does it have large eggs
+yes
+answer
